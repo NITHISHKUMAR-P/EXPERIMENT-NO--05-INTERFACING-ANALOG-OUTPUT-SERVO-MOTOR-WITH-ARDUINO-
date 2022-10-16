@@ -91,8 +91,8 @@ void loop()
 }
 ```
 
-## output:
-![output](o2.png)
+## OUTPUT:
+![output](o1.png)
 
 
 ## Toggle graph:
@@ -129,8 +129,8 @@ void loop()
 }
 
 ```
-## output:
-![output](o3.png)
+## OUTPUT:
+![output](o2.png)
 
  
 
